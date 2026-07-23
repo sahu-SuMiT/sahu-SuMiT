@@ -1,175 +1,177 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Sumit Sahu 👋</h1>
+<h3 align="center">Backend-leaning Full Stack Developer • CS Undergrad @ IIIT Gwalior • DSA Enthusiast</h3>
 
-### `sumit@github:~$ cat about_me.txt`
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumit-sahu-a3453b289/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/sahu_SuMiT/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/sumit1304" target="_blank">
+    <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://github.com/sahu-sumit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:sumitsahu1304@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahu-sumit&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🎓 Currently pursuing **B.Tech in Computer Science** at **IIIT Gwalior** (GPA: 8.21)
+- 💼 Currently a **Software Developer Intern** at **Morgan Soft Innovations** — building a job platform with resume parsing, NLP-based role matching, and assessments
+- 🏦 Also a **Partner Apprentice** at **Kotak Mahindra Bank**
+- 🧑‍💻 Previously **Team Lead Intern** at **Techori** and **SDE Intern** at **Bluestock Fintech**
+- 🏆 Amazon ML Summer School '26
+- ⚡ LeetCode rating **1815+**, CodeForces rating **1369+**, **700+ DSA problems solved**
+- 🌱 Actively building with **Go**, **Kubernetes**, and the **MERN stack** — exploring backend infra and distributed systems
+- 📫 Reach me at **sumitsahu1304@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+</p>
+
+**Cloud, DevOps & Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+**Core Concepts:** Data Structures & Algorithms · System Design · REST APIs · OOP · DBMS · OS · Cryptography (TLS, HMAC, AES)
+
+---
+
+### 💼 Experience
+
+```text
+Morgan Soft Innovations      Software Developer Intern    May 2026 – Jul 2026  | Gwalior, India
+Kotak Mahindra Bank          Partner Apprentice            Dec 2025 – Jul 2026  | Gwalior, India
+Techori                      Team Lead Intern               May 2025 – Jul 2025  | Remote, India
+Bluestock Fintech            Software Development Intern   Feb 2025 – Apr 2025  | Remote, India
+```
+
+- **Morgan Soft Innovations** — Built a job career platform with resume search, resume parsing, auto profile filling, assessments, Q&A, feedback, and NLP-based role matching; designed recruiter-facing features for invites, resume access, and report generation.
+- **Kotak Mahindra Bank** — Gained hands-on experience in retail banking, customer onboarding, KYC, and digital banking systems.
+- **Techori** — Worked across development and client technologies; engineered JWT-based apps with RBAC, Firebase, and real-time data management, alongside UI enhancements and deployments.
+- **Bluestock Fintech** — Practiced agile development, high-traffic API integrations, and JWT authentication on the MERN stack; worked on PostgreSQL schema design, indexing, and testing with Postman and Hoppscotch.
+
+---
+
+### 🔭 Featured Projects
 
 <table>
   <tr>
-    <td>
-<pre>
-                                                                                                                                                               .';codddddddddoollc:,.                                                                                                                       
-                                                                                                                                                           .cdOKNMMMMMMMMMMMMMMMMMMWKko:'                                                                                                                   
-                                                                                                                                                         ,xXMMMMMWX0kdc:::lddodxOXWMMMMMNk,                                                                                                                 
-                                                                                                                                                        lNMMMWXkl,..             .;oxKWMMMXd,                                                                                                               
-                                                                                                                                                      .:XMMWKo.                      .dNMMMMNx.                                                                                                             
-                                                                                                                                                     :OXMMMK;                          ;xXWMMW0'                                                                                                            
-                                                                                                                                                    'OMMMMK:                             'kWMMMk.                                                                                                           
-                                                                                                                                                    cNMMMX:                               .xWMMN:                                                                                                           
-                                                                                                                                                   .xMMMWd.                                '0MMWo                                                                                                           
-                                                                                                                                                   '0MWMX;      ..           .''.           dMMMx.                                                                                                          
-                                                                                                                                                   :NMMMk.     .'.           ....   ...     lNMMx.                                                                                                          
-                                                                                                                                                   oWMMWl    .:c.                           ,KMMx.                                                                                                          
-                                                                                                                                                  .OMMMWl   .lKkc,..      .,c,             .dWMMx.                                                                                                          
-                                                                                                                                                  ;XMWMK;   cXNNXX0kdlllllxKXk,.           :XMMWd.                                                                                                          
-                                                                                                                                                  ;XWWMk'  .:kO0XNNNNXKKXXNNWXk:;;,'..''. .oWMMO'                                                                                                           
-                                                                                                                                                  ;XMWW0;...';:ldxkkdlclooloddolloxkOOOk: .OMMWl                                                                                                            
-                                                                                                                                                  ;XMWMXo:,...',,,,,,;lo,    ..',,:dkOOx;.;KWMK,                                                                                                            
-                                                                                                                                                  ,KMMMWXOc.  ..',,'',::,..    .''.',;;,..xMWMO.                                                                                                            
-                                                                                                                                                  .xWMMMMWO,   ..'........ ..   ....... .lXMMWo                                                                                                             
-                                                                                                                                                   .dNMMMMWd    ....,;;;;:;,,'.    ..  .oXMMMK,                                                                                                             
-                                                                                                                                                     ;oOWMMx.    ..';;,.............  .dNMMMNl                                                                                                              
-                                                                                                                                                      .lWMMO.      .',,,'....''''.   ,OWMMMNd.                                                                                                              
-                                                                                                                                                     .;kMMM0,              .....   .dXMMMW0:.                                                                                                               
-                                                                                                                                                 ,cllxKNMMWO,.                    ;KMMMMNd.                                                                                                                 
-                                                                                                                                               .xNMMMMMMMMNx,..                  'OMMMNk,                                                                                                                   
-                                                                                                                                              'kWMMMMMMMXOkl,'..                 cNMMWx.                                                                                                                    
-                                                                                                                                          .':dKWMMMMMMMM0c;;,,'....             .kMMMMKc.                                                                                                                   
-                                                                                                                                    ..,cdkKNMMMMMMMMMMMMMWOc,'''....        .....cXMMMMWx.                                                                                                                  
-                                                                                                                                .:ok0NWMMMMMMMMMMMMMMMMMMMWXd,''......   ....... .kMMMMMWk.                                                                                                                 
-                                                                                                                           .;oxOXWMMMMMMMMMMMMMMMMMMWMMN0OkkOk:................  cXMMMMMMW0o:..                                                                                                             
-                                                                                                                        'lOXMMMMMMMMMMMMMMMMMMMMMMMMNXXKd:,,dNKl.......'.....   .kMMMMMMMMMMMN0xc.                                                                                                          
-                                                                                                                    .;oONMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWX0KXXXd'..........    '0MNKXNWMMMMMMMMMXkl,.                                                                      
-                                                                                                                   ;OWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMX0KKd'........    .xNOc;dKXMMMMMMMMMMMMW0l,.                                                                            
-                                                                                                                  cXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWN0Okc.  ...  .,oKKkdx0KNWMMMMMMMMMMMMMMMW0d;.                                                                               
-                                                                                                                 ,KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNXNk;.....;kNWXXNMMMMMMMMMMMMMMMMMMMMMMMMWk.                                                                            
-                                                                                                                 oWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWXxc:lkXNXXNMMMMMMMMMMMMMMMMMMMMMMMMMMMMk.                                                                            
-                                                                                                                '0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMW0ONWWNNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMX;                                                                       
-                                                                                                                lWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN:                                                                      
-                                                                                                                dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNc                                                                               
-                                                                                                               .xMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNc                                                                      
-                                                                                                               .xMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN:                                                                              
-                                                                                                               .xMMMMMMMMMMMMMMMMMMMMWNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMO.                                                                                              
-                                                                                                               .xMMMMMMMMMMMMMMMWWWMMNXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNc                                                                                               
-                                                                                                               .xMMMMMMMMMMMMMMMMWNWMWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNWWWMMMM0'                                                                                               
-                                                                                                               .xMMMMMMMMMMMMMMMMMWWWMWXXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNWWWMMMMk.                                                                                               
-                                                                                                                oMMMMMMMMMMMMMMMMMMMWNW0xKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMk.                                                                                               
-                                                                                                                :XMMMMMMMMMMMMMMMMMMWXXKloWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMk.                                                                                               
-                                                                                                                '0MMMMMMMMMMMMMMMMMMMMN0do0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN0KMMMx.                                                                                               
-                                                                                                                '0MMMMMMMMMMMMMMMMMMMMMKddKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN0XMMMd.                                                                                               
-                                                                                                                'OMMMMMMMMMMMMMMMMMMMMMMKokNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWd                                                                                                
-                                                                                                                .OMMMMMMMMMMMMMMMMMMMMMMWXkOWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWo                                                                                                
-                                                                                                                .dMMMMMMMMMMMMMMMMMMMMMMMMXOKMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWMMMMMMMMMWWMMMWo                                                                                                
-                                                                                                                 cWMMMMMMMMMMMMMMMMMMMMMMMWkkNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKKNMMMMMMMMWWWMMWo                                                                                                
-                                                                                                                 :NMMMMMMMMMMMMMMMMMMMMMMMMNKNNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKkkXWMMMMMMMMMMMMMNc                                                                                                
-                                                                                                                 ,KMMMMMMMMMMMMMMMMMMMMMMMMMWXO0MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMKdokNMMMMMMMMMMMMMMMX;                                                                                                
-                                                                                                                 .kMMMMMMMMMMMMMMMMMMMMMMMMMMWKXMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNk,,kNMMMMMMMMMMMMMMMMX;                                                                                                
-                                                                                                                  dMMMMMMMMMMMMMMMMMMMMMMMMMMMNXWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWO:..kWMMMMMMMMMMMMMMMMMX;                                                                                                
-                                                                                                                  cNMMMMMMMMMMMMMMMMMMMMMMMMM0cxWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMXo. .kWMMMMMMMMMMMMMMMMMMX;                                                                                                
-                                                                                                                  .xMMMMMMMMMMMMMMMMMMMMMMMMMk:kWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMK; .xWMMMMMMMMMMMMMMMMMMMK;                                                                                                
-                                                                                                                   ;XMMMMMMMMMMMMMMMMMMMMMMMMWWWNNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWk'oWMMMMMMMMMMMMMMMMMMMMK,                                                                                                
-                                                                                                                    oWMMMMMMMMMMMMMMMMMMMMMMWNWNl'cdkKXNWMMMMMMMMMMMMMMMMMMMMMMMWXo'dWWMMMMMMMMMMMMMMXkKMM0'                                                                                                
-                                                                                                                    'OMMMMMMMMMMMMMMMMMMMMMMNXXKo;;,,:coOKNWMMMMMMMMMMMMMMMMMMWNXkc:ooOMMMMMMMMMMMMMMKkXMM0'                                                                                                
-                                                                                                                     cNMMMMMMMMMMMMMMMMMMMMMMMMMMWWWNNNNWMMMMMMMMMMMMMMMMMMMMMMMMMMMW0KMMMMMMMMMMMMMMMMMMMO.                                                                                                
-                                                                                                                     .kMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMK;                                                                                                
-                                                                                                                      ,KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWl                                                                                                
-                                                                                                                       :KMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWo                                                                                                
-                                                                                                                        lNMMMMMMMMMMMMMMMMMMMMMMWWNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWKXWMMMMMMMMMMMMMMMMMMMWo                                                                                                
-                                                                                                                        .kMMMMMMMMMMMMMMMMWNKXXNNK0XWMMMMMMMMMMMMMWWMMMMMMMMMMMMMMMOcxNWWX000000KNWMMMMMMMWo                                                                                                
-                                                                                                                        .xMMMMMMMMMMMMMMN0OkkOKXNNNNWWMMMMMMMMMMMMWWMMMMMMMMMMMMMMMx':dO0OxxkkkdllodkXWMMMWo                                                                                                
-                                                                                                                        .xMMMMMMMMMMMMNk:,:dk0XNNNNNNNWWMMMMMMMMMMMMMMMMMMMMMMMMMMMk,:x0XNNNNNNKOdc,..xWMMNc                                                                                                
-                                                                                                                        .xMMMMMMMMMMMK:..';cdOKXNNNNNNNNWMMMMMMMMMMMMMMMMMMMMMMMMMWk:oOKNNNNNNNXOdc,.'kWMMK,                                                                                                
-                                                                                                                        .kMMMMMMMMMMMO'  .',:oxOXNNNNNNNNWWMMMMMMMMMMMMMMMMMMMMMMMMOlxKNNNWWWWNKOd:.,OWMMWx.                                                                                                
-                                                                                                                        '0MMMMMMMMMMMMXc. ..,;cokKXNNNNNNNWWKKWMMMMMMMMMMMMMMMMMMMMXkkKNNNWWWWN0ko,.:XMMMNc                                                                                                 
-                                                                                                                        ,KMMMMMMMMMMMMW0;   .',:lxOKXNNNNNNXKXMMMMMMMMMMMMMMMMMMMMMKdxKNNWWWWWX0d:..xWMMMMXc.                                                                                               
-                                                                                                                        ,KMMMMMMMMMMMMWNKk;  ..';coxkO0KKXXXNWMMMMMMMMWWMMMMMMMMMWNx:oKNNWWWWNXOl'.oNMMMMMMNo.                                                                                              
-                                                                                                                        ,KMMMMMMMMMMMMMMWWK;   ..';coddxO00KXNWN0kdloxOXWMMMMMMMMW0xoxKNWWWWWWXk:.oNWMMMMMMMX:                                                                                              
-                                                                                                                        ,KMMMMMMMMMWMMMMMMMXd'   ..';clldkOO0KKOolok00KKKXWMMMMMMMMMNKXNWWWWWWXk,.lxxxxxONMMMKc.                                                                                            
-                                                                                                                        ,KMMMMMMMMMWMMNXXNMMMXx,    ..',:codxO00XWWWMMMWK0NMMMMMMMMWXKNNWWWWWWXx'        oWMMMWk'                                                                                           
-                                                                                                                        ,KMMMMMMMWNXx:'..,;;;;;'      ...',;:ox0KNWWMMMMMMMMKOXWMMMMWNNNWWWWWWNx.        .c0WMMMKc.                                                                                         
-                                                                                                                        .xMMMMMNOxx:                     ..',;cdk000KXWMMMMMKc,ckNMMWWNNWWWWWWXd. .',:;'.  .xWMMMWKo.                                                                                       
-                                                                                                                         ,KMMMM0;..            .'..       ..',,:clooodxkd:;co;   ,oKWNNNWWWWWN0:.'dkO0OOxl:,,oKWMMMWKo.                                                                                     
-                                                                                                                          oWMM0;             .,lkko:'.     ..,,,;:cclxkko:'....''cxXWWNWWWWWN0l..dKXXXNNNXK0xlcdXMMMMMKl.                                                                                   
-                                                                                                                          cNMM0'           .;ok0XNXXKkdc.   .',,,,,,:oxOKKKKKK0OOO0KKKKXXNNXKk, .oxdox0KXNNNXX0xxKNMMMMWKc.                                                                                 
-                                                                                                                          :NMMWd.         .lOKXNNWNNXXKO:. .',,''.'',;coxO00KKOxoc::::::lododkxl:;,;okKXNNNNXXXKOdoxXWMMMNo.                                                                                
-                                                                                                                         .xWMMWx.       ..l0XNNNWWWWWNNXOl. ........',;coxkO00KK0kl;'...,;;;:lx0KOxx0XXXNNNNNXXK0xc':ONMMMX;                                                                                
-                                                                                                                        :KWMMMK,        .;dKNNWWWWWWWWWNXOl.     ....',:lxkOOO0KXNKOl..lOK00k:....'cx0KXXXXXXXXXK0kc.'xWMMNl                                                                                
-                                                                                                                      .cXMMMMXc         .ckXNWWWWWMMWWWNOdc'        ...,:codxkkO0XXXKc.;xNNXO:.    .,lxk000KKXXXXK0kc.,0WMMx.                                                                               
-                                                                                                                    .;kNMMMWO;         .,dKNWWWMWWWWNK0Oo:;'.          ..;::loxkOKXNNO:c0NKd;.      ..,:ldkO0KKKKKK0OdckWMMNo.                                                                              
-                                                                                             .....',:cclodxxxxxxxxkOXWMMMMWk;.         .;d0XNWWWWWWWWWWWNNKko;.          ..,;;codxO00XNNX0l.             ..,;lxOKXXKKK0KWMMMWk'                                                                             
-                                                                                  ...,;:lodxO0XXNNNWMMMMMMMMMMMMMMMMMMMWWWXOxxd;       .;lOXXNNNNNWWWWWNX0ko:'.          ...',,;;,;:kNNkc,....              .;lk0KXXXXKKXWMMMWK:                                                                            
-                                                     ....',;;::ccccccllllllllodxO0KXNWMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWNNNNXNXXXk,      .,lx0KKXXXXXXXXXXX0kdl:;.           ...',,'.:KWNo. .;c:,...          .,lxOKKXNNNXKKNWMMMX:                                                                           
-                                           ..';:loxk00KXNWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWWWWWWWWNNNNNNNNNNXNXXXXXXXXXXO:.     ..;lxO0OOkxxO0KXK0kkkdlc,.              ....;oxo'   ...,,''.         .';lxKXXNNNNXK0NWMMMXc                                                                          
-                          ............';cok0XNWMMMMMMMMMMMMMMMMWWNNWWMMMMMMMMMMMWWWWWWWWWWWNNNNNNNNNNNNNNNNXXXXXXXXXXXXXXXXXXXXOc.      .':loollccoxOKKK0Okkkdlc,.                    ..',..                 .,:oOKXXNWWWNXKXWMMMNc                                                                         
-                 ..';cldk00KKKKKK0KKKXNWMMMMMMMMMMWNWWWWWWWWWWWWNNNWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXXXXXXXXXXXXXXXXXXXXXXK0x:.        ..,;:cllldO0K0000OOkdc,.       ...      ..    .,;,,,'..             .'cx0XNNWMMWWNKXWMMMK:                                                                        
-            ,kOOO0XNWMMMMMMMMMMMMMWMMMMMMMMMMWWWWWNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXXXNNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXK0KKK00OOxdl,.          .,:ccccldkOOOOkkdoc:,.        ,c;',,'.  ...     ...                .,oOKNWWMMMMWWXNWMMM0;.                                                                      
-            cWMMMMMMMMMMMMWWWWWWWWWWWWWWWWWNNNNNNNNNNNNNNNNNNNNNXNNNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXKkoddoc:::;;,.           .,:ccccclddxkxdoccc:;'.         ':;'...                             .;d0NWMMMMMMMWNNMMMNd.                                                                      
-            cWMMNNWWWWWWWWWWWNNNNNNNNNNNNNNNNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXKKK00OOOOkkkxo:,,'........            .':llc::coodxxxdlc:,'.                     ...                       'lkXWWMMMMMMMWWMMMMXc                                                                      
-            cWMWWNNNNNNNNNNNNNNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXKKKKXXXKK000000OOOOOOOkkxxddoloooo:.   ....                .':llc::cloxxxdol:,..             .:c,..  ...                       .:d0XNWMMMMMMMMMMMMMK;                                                                     
-            cWMWWNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXKKK00OOkkkxxxxxddddxxxkkO00KKKKKKKKKKKKXXKOxxxxddddddddxdodo;.      .,c:::::cdxkxdol:,..             ....           .                  .:x0XWWMMMMMMMMMMMMMO.                                                                    
-            cWMWNNXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXKK0Okkxxxdooc:;;;::;,:dO0KXNNWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNc       ..,,;;;:lxkkxdoc;'..                         .okl.                 .;oOXNWWMMMMMMMMMMMWl                                                                    
-            cWMWNXXXXXXXXXXXK0OOOxkO0K00KKKXXXXXXXXXXX000KKKKKKK000K000OkkkxkkOOkkxdooxkOkOKNWWMMMMMMWNXK0Okxxddddddooolllccccccccco0WMM0'        .';cccldxkkxoc:;,'.                      .,ck0x:                  .'ck0XNWMMMMMMMMMMMk.                                                                   
-            cWMWNXXXXXXXXXXXKKK000OO000Okkk0KKKKKK000OOO0KKXXXNNNXNNNNNNNWWWWWWWWWWWWWWWMMMMMMWNKOxoc;'...                          ,KMMWd.      ..,:clodxxkkkxlc;;,.                    'dKWWMMWK;                   .lk0XNWWWWWWWMMMM0'                                                                   
-            cWMWNXXXXXXXXKKK000OOOkkkkoc:clodxkxdolc:;oKNWWMMMMMMMMMMMMMWWWWNXXKK00OOkkkkxdolc;'.                                    dWMMX:      .;cloodkOOOOOkxol:,..                .;xXWMMMMMMWd.                   .:oxkO0K0000XWMMNc                                                                   
-            cWMWNXXKKKKK0kdlc::cc:cll:.  .,,'.....    lNMMMWNXKOkxoolllc:;,,'.....                                                   '0MMM0,     'cdkO00KKXXKK00kxo:..               ;OWMMMMMMMMMMK,                     ....,:c:::oKMMMx.                                                                  
-            cWMWK000Odoodxxxddxkxolc,.            .',:OWMW0l,..                                                                      ,OMMMWd     'lx0KXXNNNNNNXX0ko:'..           .lONMMMMWNWMMMMMNd.                          .....dWMM0'                                                                  
-            cWMNOlc,,cdOKKKKXXXXXXXXOl'.     .,cox0NWMMMMWl                                                                        .lKMMMMMO.    .:x0NNNWMMMMWWNXOdl;'.          ;OWMMMMWXd:xNMMMMMNc                               ,0MMK,                                                                  
-            cWM0,..,lO0KK0KKKXXXXXXXK0ko:'...oXMMMMMWX0kkd,                                                                       'OWMMMMMMNk:.   .ckXNNWWMMMMMWNKOd:'.        ;kNMMMMNOc.  .,dKWMMMK,                   ..          dMMK,                                                                  
-            cWMx..,;lxkOO0KKXXXXXXXXXXXKOx; ;KMMMMXx:..                                                                           :XMMMMMMMMWWd.  .:x0XNWWMMMMMWNXKOo:'.     .dNMMMMMXc.       .oNMMWo                              ;0MMK,                                                                  
-            cWMx. .':odxkO00KKKKKKKKXXXKKO: ;KMMWO,                                                                               :XMMMMWWMMWWo    'dKNNWMMMMMMWWNX0dc,.    'OWMMMMMXc           oWMMO.                           .oXMMM0'                                                                  
-            cWMx. ...,lxkOOOO000KKKKXXXXK0o,dWMMX;                                                                                :XMMMWWWMWN0:    .:kKXWWMMMMMWWNXKxc,.    :NMMMMMXc            ;XMMNc                          :0WMMMK:                                                                   
-            cWMx.  .':ok000OO00KKKXXXXXXXK0k0WMMWo                                                                                cNMMMMWWWXkc.    .cx0KNWWMMWWWWWNKOo;.    'kWMMMXc             oWMMMk.                        lNMMMNk'                                                                    
-            cWMx.  .'cdO00000KKKKXXXXXXXXK00XWMMMX:                                                                              :KMMMMMWN0xc,.    .dKXNNWWWWWWWWWNXOd;.     .xWMMd             cXMMMMN:                       '0MMW0:                                                                      
-            cWMx.  .':okO0KKKXKKXXXXXXXXXXKKXNWMMM0,                                                                           .lXMMMMMWX0xl,..     .;lxXNNWWWWNNNNKOo,.     :XMMMo            '0MMMMNd.                       cWMMK;                                                                       
-            cWMk.  .':oxkO0KKXXXXXXXXXXXXXXXX0KNMMMO.                                                                         ;OWMMMMWWXOxo:'..       .,xKNNNXXX0Okdo:.      lNMMMo            cNMMMM0,                       ,0MMMd                                                                        
-            cWMk.   ':odkO00KKKKXXXXXXXXXXXXX0coNMMWl                                                                       ;kNMMMMMWNX0xoc;'..     'oxOKXKkollc;'...         oWMMo           .kMMMMM0,                      '0MMMK,                                                                        
-            cWMx.   .:ldxkO000KKXXXXXXXXXXXXXKo;OMMMO.                                                                   .cONMMMMMWWNK0kdl:,...     ;xkxo:,..                 cNMMo           :XMMMM0,                       ;XMMMO.                                                                        
-            cWMx.   .,clodkOOO0KXXXXXXXXXXXXXXKXWMMMNc                                                                 .lKWMMMMMWWNXK0kxoc;....                               lWMMo           oWMMMX:                        .xWMMX;                                                                        
-            cWMx.   .,coodxkO00KXXXXXXXXXXXXX00xlOWMMx.                                                              .c0WMMMMMWWNNXK0Oxdl:,....                              :XMMMo           dMMMXc                          :KMMWd.                                                                       
-            cWMk.   .,codxxO0KKXXXXXXXXXXXXXKOOdckWMMK,                                                             ,kWMMMMMWWNNNXXKOkdol:'...                               cNMMMx.         .xMMNc                           .dWMMK;                                                                       
-            cWMk.   .':oxxxk0KKXXXXXXXXXXXXXK0kk0XWMMNc                                                           .oXMMMMMMWWNNXXXXKOdolc;'..                                .xWMMk.         ,KMMX;                            ;XMMWk.                                                                      
-            cWMk.    .;ldxxO0KXXXXXXXXXXXXXXK0xoodKMMWx.                                                         .kWMMMMMWWNNXXXXXXKOdll:,...                                ;KMMMk.        .kWMM0'                            .kMMMXc                                                                      
-            cWMk.    .'cdxk00KKXXXXXXXXXXXXXKOxox0WMMM0,                                                        ,OWMMMMWWNNNXXXXXXXKkoc:;'..     ..                         'OMMMMk.       'OWMMWl                              oWMMMO.                                                                     
-            cWMO.     .;odkO00KKXXXXXXXXXXXXK0kxOXWMMMNc                                                       :KMMMMMWNNXXXXXXXXXX0xc;''..     ,OX:                        ,0MMMMk.      .OMMMWx.                              ;XMMMNc                                                                     
-            cWMX;     .'coxkkO0KKKXXXXXXXXXXXXKKKXXWMMWx.                                                    .oNMMMMWWNXXXXXXXXXXX0ko;....    .lXMM0'                        lNMMMk.      lWMMNo.                               '0MMMMk.                                                                    
-            cWMNc      .;codxkO00KKKXXXXXXXXXXXKKKXWMMMO.                                                   .xNMMMMWNNXXXK0KXXXXX0kdo:'..    ,OWMMMX;                        ,KMMMx.     .OMMWd.                                 oWMMMX:                                                                    
-            cWMWo      .';cldxxkOO00KKXXXXXXXXXK0000XMMK,                                                  ;OWMMMMWNXXXXXXKXKKOkkxddo;..   'xXMMMMMWk.                       ;XMMWo      ;XMMX;                      ...         :XMMMMk.                                                                   
-            :NMMk.      .,:codxkkkO00KKKKKKKKK0OOOkxKMMNc                                                .lNMMMMMWNNXXXXXXXXX0xc,',,..  .,dXMMMMMMMMW0o,                     '0MMWo     .kWMMx.                      .........   .kMMMMNc                                                                   
-            ,KMMK;      ..,:lddxkkO0KKKKKKK00OkxxO0XWMMMx.                                              'xNMMMMWWNNXXXXXXXXXKx:;'      .xNMMMMWNNWWMMMMk.                    '0MMMNd'  .xWMMNc                       ...',,'...   lNMMMWl                                                                   
-            .OMMNl       ..;lodxkO00KKKKKK0OkxkxxO0XWMMMX:                                             cKMMMMMWNNXXXXXXXXXXK0l'..    .:0WMMMXx;',;oXMMMN:                    '0MMMMWXkclKMMNo.                       ....';,''..  ;KMMMWo                                                                   
-             oWMMO.        .:dxkkO0KKKKKK0OkkkkxkO0XNWMMMO.                                          .xNMMMMWWNXXXXXXXXXKKOkx:. . ..;kNMMMWk,      dWMMWc                    '0MMMMMMMMWMMMO.                        ....',,','.  .kMMMWo                                                                   
-             ,KMMN:         .,ldxO00KKK00xdddxxold0KXWMMMNo                                        .c0WMMMMWNNXXXXXXXXXKK0kdo,   ..lKWMMWKc.       cWMMWc                    .dWMMMMMMMMMMM0,                 ..     .....''',,..  lWMMWo                                                                   
-             .xWMWo           .cxOO0000K00OOOxxkdxO00XNWMMXc                                    .,o0WMMMMWWNNNXXXXXXXXXK0kdol'  .ckKWMMWk.         :NMMMx.                    'k0NMMMMMMMXo.                 ;0x.   ......'''''..  ,KMMWl                                                                   
-              cXMMO.           'okO00KXXKXKxxO0000OkkOKNMMMO.                                 ;xKWMMMMMWWNNXXXXXXXXXXKK0kdlc;'':kNMMMMWx.          ,KMWMX;                      .'xWMMMNx.                  cXMX:  .......'',''... '0WMN:                                                                   
-              '0MM0'       ....,cdxk000KXK0kk000KKOkxdlkWMM0'                               ,kNMMMMMMWWNNNXXXXXXXXXXK0Okdl:'.c0WMMMW0o,.           .kMMMWO.                       .kWMNl                  .dNMMMd  .......''''.... 'OMMNc                                                                   
-              .xWMX;         ..';::clllx000KKXXK0Okkxo:lKMM0'                             .oXMMMMMWWNNNXXXXXXXXXXXXK0Oxoc,..:KMMMWO:.               cNMMMWx.                       ;OOc.                  :NMMMMK,  ........''.....,OMMWk.                                                                  
-               oWMWo          ...',,'':dkOO00000Okkkkd,.xMMK,                           .c0WMMMMWWNNXXXXXXXXXXXXXK0Oxol:'..:0WMMWd.                 .dNWMMk.                        .                     .OMMMMNl   .........'.....xWMMWk'                                                                 
-               cNMMd           ..';:,',cxxxkOOOOOkkkkkl;OMMWo                         .:OWMMMMMWNNXXXXXXXXXXXXXK0Okdoc;'.;xNMMMMk.                   ,dKMMd                                                lNMMMMO.   ...'''........:KWMMM0,                                                                
-               ;XMMd.          ..',::,,cdkkOO000kkkOOOx:dWMMK,                      'o0WMMMMMWWNXXXXXXXXXXXXXKK0kxdlc,.'oXMMMMW0'                    'o0MMk.                                               '0MMMMWc  ...',;,,;;,.....:KWMMMk.                                                               
-               '0MMx.           ..';cc:lxkO0000OxxkO00Oc,kMMWo                   .:xXMMMMMMWWNNXXXXXXXXXXXXXKOkxdoc;,;o0WMMMWKl.                     .lOMM0,                                               cXMMMMMd. ...',;;;:::'. ...:KMMMNd.                                                              
-               .OMMk.           ..,:clooxkO000OkkkO0KK0k'cNMMk.                .c0WMMMMMMWWNNXXXXXXXXXXXXXK0Okdl:;;cxKWMMMMNd.                       .:kMMWk.                                             .kMMMMMMK;....'::;,;:c;. ....dWMMMWx.                                                             
-               .kMM0,           ..';cloodxkO000O000KKKKKl:KMM0'              'l0WMMMMMWWNNNXXXXXXXXXXXXXXKOkdlc;''c0WWMMWKo'                          .oWMMWO;                                           .oNMMMMMMX:....,:::;:cc:'.....'xNMMMWk.                                                            
-               .kMMN:           ...,:cllodxkOO00KKKKKKKX0kXMMN:           .ckNMMMMMMMWNNNXXXXXXXXXXXXXXK0Oxol:,..cKWMMMXo.                             .xWMMMNl                                        .;kWMMMMMMMWk;..';:::cccll:'......lXWMMNc                                                            
-               .dWMWc          .....,:clodxkkOO00KK00KKKKxOWMM0,       .;xXWMMMMMMMWNNNXXXXXXXXXXXXXXK0Oxol:;'.:kNMMMWO,                                .cKMMMX:          ..                     ,ccoxOXWMMMWNNMMMMW0l,;::cc:;;cll;.......lNMMMk.                                                           
-                cNMWd.            ...,;clodxxkkOO0K0OO000kONMMMKc.   ,oONMMMMMWWWWWNNXXXXXXXXXXXXXXXK0kdoc:'.;xNWMMMNx.                                   ,0MMMXl.       .:'                   'xNMMMMMMWNKkc',dXMMMW0lcc:llllllool,'.....:0WMMX:                                                           
-                ;KMMO.             ...';:codxxxkOOO0kkO0KO:lNMMMW0lckNMMMMMW0ox0XNNXXXXXXXXXXXXXXKK0Oxdlc;.,xXWMMMWO;                                      lWMMMXo,.......oo.                 cXMMMMXdc:,'.     ;0MMMXkolloooooooooc;,'...;kNMMMx.                                                          
-                .OMMX;               .....,:ccldkxxkkkO00Kl.;ONMMWOkNMMMMMMWXO0XNXXNNXNNXXXXXXXXK0Okdoc;''l0WMMMMXo.                                       :NMMMN0dlccldc.:OOollllc;'.       .kMMMMWx.           lWMMW0dllooddddoooc,'.....;0MMMk.                                                          
-                .dWMW0oooooooooooooooooooooooodkKXXXXXNNNWXxoxXMMWOkNMMMMMMMMWWWWWWWWWWWWWWWWNNNNXXKK0kdxKWMMMMW0;                                         :NMMMMWNNNNNNKxkNMMMMMMWWWX0kdooolkNMMMMWd.           ;XMMWN0OO000OO0OOOkxdoooodxXMMMk.                                                          
-                 :KNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNXNNXXNNNNNNXxdKNNNNNNNNNNNNNNNNNNNNNNNNNNNNXXXXXNNNNNNNNXk'                                          :KNXNNNNNNNNNNNNNNNNNNNNNXNNNNNNNNNNNNNNXo.           ,0NXNXXXXXXNNXXNNNNNNNNNNNNNNNNd.                                                          
-                 .,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,'.,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,.                                           .,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;.            .,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;.                                                           
-
-</pre>
+    <td width="50%">
+      <h4>⚙️ Git CI/CD Actions</h4>
+      <p><b>Stack:</b> Go, Docker, GitHub Actions</p>
+      <p>A Go service that clones repos and runs full build pipelines — checkout, dependency install, compile, test, and artifact generation — with concurrent job execution via goroutines, worker queues, timeouts, and retries.</p>
+      <a href="https://github.com/sahu-sumit/ci-cd-runner">🔗 Source Code</a>
     </td>
-    <td>
-<pre>
-Name: Sumit Sahu
-OS: Arch / Ubuntu Linux
-Role: Backend & Machine Learning Developer
-Languages: Java, C++, TypeScript, Go
-Focus: Cryptography, Systems Engineering, Algorithms
-Current Project: Kubeflow Pipelines (Go/TypeScript)
-Interests: Robotics, Custom EFI/Hackintosh, Football
-</pre>
+    <td width="50%">
+      <h4>☸️ Kubernetes Pod Manager</h4>
+      <p><b>Stack:</b> Go, Kubernetes, Docker, PostgreSQL, Prometheus</p>
+      <p>Go backend using <code>client-go</code> to create, delete, restart, and monitor Pods/Deployments — containerized and deployed with Services, ConfigMaps, Secrets, and Ingress.</p>
+      <a href="https://github.com/sahu-sumit/kubernetes-pod-manager">🔗 Source Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🎯 CampusConnect – Career Portal</h4>
+      <p><b>Stack:</b> MERN, Redux, JWT, SSR</p>
+      <p>Full-stack campus recruitment platform with REST APIs for job postings, applications, and interview scheduling, plus MongoDB aggregation-powered analytics dashboards.</p>
+      <a href="https://github.com/sahu-sumit/campus_connect">🔗 Source Code</a> · <a href="https://campusconnect-mocha-nine.vercel.app/">🌐 Live Demo</a>
+    </td>
+    <td width="50%">
+      <h4>📹 NextMeet – Live Video Chat</h4>
+      <p><b>Stack:</b> React, Node.js, WebRTC, Socket.io</p>
+      <p>Real-time peer-to-peer video conferencing app with global chat, concurrent connections, and Firebase-secured sessions.</p>
+      <a href="https://github.com/sahu-sumit/nextmeet">🔗 Source Code</a> · <a href="https://nextmeetvideochat.vercel.app/">🌐 Live Demo</a>
     </td>
   </tr>
 </table>
 
-</div>
+---
+
+### 🏆 Honours & Awards
+
+- 🥇 **Amazon ML Summer School '26** — selected learner in Amazon's machine learning training program
+- 🎓 **Reliance Foundation Scholarship '23** — awarded for academic excellence
+- 🎓 **Merit Cum Means (MCM) Scholarship '24** — awarded for outstanding merit
+- 🤖 **Robo Race Runner-up '24** — 2nd place at Infotsav (ABV-IIITM Gwalior)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahu-sumit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-sumit&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-sumit&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sahu_SuMiT?theme=dark&font=baloo2&ext=heatmap" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sumit-sahu-a3453b289/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:sumitsahu1304@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=flat-square&logo=gmail" /></a>
+  <a href="tel:+916009022247"><img src="https://img.shields.io/badge/Phone-%2B91%206009022247-green?style=flat-square&logo=whatsapp" /></a>
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/sahu-sumit">Sumit Sahu</a> — thanks for stopping by!</i></p>
