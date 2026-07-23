@@ -52,7 +52,9 @@
 ```
 
 ---
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,go,react,nextjs,nodejs,express,tailwind,redux,mongodb,postgres,firebase,aws,docker,kubernetes,git,github,vercel,linux&theme=dark" />
+</p>
 
 ```text
 [Dec 2025 - Jul 2026] Kotak Mahindra Bank            :: Partner Apprentice
@@ -126,9 +128,7 @@ cloud_devops: [AWS (EC2, S3), Docker, Kubernetes, Git, GitHub Actions, Vercel, L
 core:        [DSA, System Design, REST APIs, OOP, DBMS, OS, Cryptography (TLS, HMAC, AES)]
 ```
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,go,react,nextjs,nodejs,express,tailwind,redux,mongodb,postgres,firebase,aws,docker,kubernetes,git,github,vercel,linux&theme=dark" />
-</p>
+
 
 ---
 
