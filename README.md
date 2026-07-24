@@ -1,5 +1,5 @@
+[![Header](https://github.com/sahu-SuMiT/sahu-SuMiT/blob/main/readme_header.png "Header")](https://martinheinz.dev/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Sumit+Sahu;Backend-leaning+Full+Stack+Dev;CS+Undergrad+%40+IIIT+Gwalior;DSA+%2F%2F+700%2B+problems+solved" alt="Typing SVG" />
 
 </div>
 
