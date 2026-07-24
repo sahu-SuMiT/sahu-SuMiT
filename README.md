@@ -138,15 +138,17 @@ core:        [DSA, System Design, REST APIs, OOP, DBMS, OS, Cryptography (TLS, H
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahu-sumit&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahu-sumit&theme=dark&hide_border=true&background=0d1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahu-sumit&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" width="48%" />
-  <img src="https://leetcard.jacoblin.cool/sahu_SuMiT?theme=dark&font=monospace&ext=heatmap" width="48%" />
-</p>
 
+  <img src="https://leetcard.jacoblin.cool/sahu_SuMiT?theme=dark&font=monospace&ext=heatmap" width="40%" />
+
+  <img src="./lc_ratings.png" width="30%"/>
+  <img src="https://cf.leed.at?id=sumit1304&graph=rating" />
+  <img src="./cf_ratings.png" width="50%" />
+</p>
 ---
 
 
@@ -161,3 +163,5 @@ core:        [DSA, System Design, REST APIs, OOP, DBMS, OS, Cryptography (TLS, H
 
 
 </div>
+
+
