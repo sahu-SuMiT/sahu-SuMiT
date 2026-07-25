@@ -4,6 +4,28 @@
 </div>
 
 
+
+---
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,go,react,nextjs,nodejs,express,tailwind,redux,mongodb,postgres,firebase,aws,docker,kubernetes,git,github,vercel,linux&theme=dark" />
+</p>
+
+```text
+[Dec 2025 - Jul 2026] Kotak Mahindra Bank            :: Partner Apprentice
+                       > retail banking, KYC, digital banking systems
+
+[May 2026 - Jul 2026] Morgan Soft Innovations        :: Software Developer Intern
+                       > built job platform: resume parsing, NLP role matching,
+                         assessments, recruiter dashboards, report generation
+
+[May 2025 - Jul 2025] Techori                        :: Team Lead Intern
+                       > JWT + RBAC apps, Firebase, real-time data, UI + deploy
+
+[Feb 2025 - Apr 2025] Bluestock Fintech               :: SDE Intern
+                       > agile MERN dev, JWT auth, Postgres schema + indexing
+```
+
+---
 ```json
 {
   "email"     : "sumitsahu1304@gmail.com",
@@ -43,30 +65,6 @@
 [OK] currently_learning : Go, Kubernetes, distributed systems
 [DONE] process exited with code 0
 ```
-
----
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,go,react,nextjs,nodejs,express,tailwind,redux,mongodb,postgres,firebase,aws,docker,kubernetes,git,github,vercel,linux&theme=dark" />
-</p>
-
-```text
-[Dec 2025 - Jul 2026] Kotak Mahindra Bank            :: Partner Apprentice
-                       > retail banking, KYC, digital banking systems
-
-[May 2026 - Jul 2026] Morgan Soft Innovations        :: Software Developer Intern
-                       > built job platform: resume parsing, NLP role matching,
-                         assessments, recruiter dashboards, report generation
-
-[May 2025 - Jul 2025] Techori                        :: Team Lead Intern
-                       > JWT + RBAC apps, Firebase, real-time data, UI + deploy
-
-[Feb 2025 - Apr 2025] Bluestock Fintech               :: SDE Intern
-                       > agile MERN dev, JWT auth, Postgres schema + indexing
-```
-
----
-
-
 
 <table>
 <tr><td>
