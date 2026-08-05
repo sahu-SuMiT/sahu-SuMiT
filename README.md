@@ -1,4 +1,4 @@
-[![Header](https://github.com/sahu-SuMiT/sahu-SuMiT/blob/main/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](readme_header.png "Header")](https://martinheinz.dev/)
 
 
 </div>
@@ -9,6 +9,17 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,go,react,nextjs,nodejs,express,tailwind,redux,mongodb,postgres,firebase,aws,docker,kubernetes,git,github,vercel,linux&theme=dark" />
 </p>
+
+```json
+{
+  "email"     : "sumitsahu1304@gmail.com",
+  "phone"     : "+91 6009022247",
+  "linkedin"  : "sumit-sahu-a3453b289",
+  "leetcode"  : "sahu_SuMiT",
+  "codeforces": "sumit1304",
+  "github"    : "sahu-sumit"
+}
+```
 
 ```text
 [Dec 2025 - Jul 2026] Kotak Mahindra Bank            :: Partner Apprentice
@@ -26,16 +37,7 @@
 ```
 
 ---
-```json
-{
-  "email"     : "sumitsahu1304@gmail.com",
-  "phone"     : "+91 6009022247",
-  "linkedin"  : "sumit-sahu-a3453b289",
-  "leetcode"  : "sahu_SuMiT",
-  "codeforces": "sumit1304",
-  "github"    : "sahu-sumit"
-}
-```
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumit-sahu-a3453b289/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=39FF14" /></a>
