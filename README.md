@@ -6,36 +6,63 @@
 
 
 ---
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,go,react,nextjs,nodejs,express,tailwind,redux,mongodb,postgres,firebase,aws,docker,kubernetes,git,github,vercel,linux&theme=dark" />
-</p>
 
-```json
-{
-  "email"     : "sumitsahu1304@gmail.com",
-  "phone"     : "+91 6009022247",
-  "linkedin"  : "sumit-sahu-a3453b289",
-  "leetcode"  : "sahu_SuMiT",
-  "codeforces": "sumit1304",
-  "github"    : "sahu-sumit"
-}
-```
+
+<pre>
+┌─[CONTACT]─────────────────────────────────────────────────────┐
+│                                                               │
+│  MAIL       →  <a href="mailto:sumitsahu1304@gmail.com">sumitsahu1304@gmail.com</a>                        │
+│  PHONE      →  <a href="tel:+916009022247">+91 6009022247</a>                                 │
+│                                                               │
+│  LINKEDIN   →  <a href="https://www.linkedin.com/in/sumit-sahu-a3453b289/">sumit-sahu-a3453b289</a>                           │
+│  GITHUB     →  <a href="https://github.com/sahu-sumit">sahu-sumit</a>                                     │
+│                                                               │
+│  LEETCODE   →  <a href="https://leetcode.com/u/sahu_SuMiT/">sahu_SuMiT</a>                                     │
+│  CODEFORCES →  <a href="https://codeforces.com/profile/sumit1304">sumit1304</a>                                      │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+</pre>
 
 ```text
-[Dec 2025 - Jul 2026] Kotak Mahindra Bank            :: Partner Apprentice
-                       > retail banking, KYC, digital banking systems
+EXPERIENCE
 
-[May 2026 - Jul 2026] Morgan Soft Innovations        :: Software Developer Intern
-                       > built job platform: resume parsing, NLP role matching,
-                         assessments, recruiter dashboards, report generation
-
-[May 2025 - Jul 2025] Techori                        :: Team Lead Intern
-                       > JWT + RBAC apps, Firebase, real-time data, UI + deploy
-
-[Feb 2025 - Apr 2025] Bluestock Fintech               :: SDE Intern
-                       > agile MERN dev, JWT auth, Postgres schema + indexing
+                    ┌─────────────────────────┐
+                    │   SOFTWARE DEVELOPMENT  │
+                    └────────────┬────────────┘
+                                 │
+                 ┌───────────────┴───────────────┐
+                 │                               │
+                 ▼                               ▼
+        ┌─────────────────┐             ┌─────────────────┐
+        │    BLUESTOCK    │             │     TECHORI     │
+        │                 │             │                 │
+        │    SDE INTERN   │             │    TEAM LEAD    │
+        │  02.25 ─ 04.25  │             │  05.25 ─ 07.25  │
+        └────────┬────────┘             └────────┬────────┘
+                 │                               │
+                 └───────────────┬───────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │   KOTAK MAHINDRA BANK   │
+                    │                         │
+                    │   PARTNER APPRENTICE    │
+                    │      12.25 ─ 07.26      │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │ MORGAN SOFT INNOVATIONS │
+                    │                         │
+                    │SOFTWARE DEVELOPER INTERN│
+                    │      05.26 ─ 07.26      │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │      NOW BUILDING       │
+                    └─────────────────────────┘
 ```
-
 ---
 
 
