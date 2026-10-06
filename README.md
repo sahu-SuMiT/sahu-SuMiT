@@ -36,7 +36,7 @@ EXPERIENCE
         ┌─────────────────┐             ┌─────────────────┐
         │    BLUESTOCK    │             │     TECHORI     │
         │                 │             │                 │
-        │    SDE INTERN   │             │    TEAM LEAD    │
+        │ FRONTEND INTERN │             │  BACKEND INTERN │
         │  02.25 ─ 04.25  │             │  05.25 ─ 07.25  │
         └────────┬────────┘             └────────┬────────┘
                  │                               │
@@ -46,7 +46,7 @@ EXPERIENCE
                     ┌─────────────────────────┐
                     │   KOTAK MAHINDRA BANK   │
                     │                         │
-                    │   PARTNER APPRENTICE    │
+                    │   STUDENT APPRENTICE    │
                     │      12.25 ─ 07.26      │
                     └────────────┬────────────┘
                                  │
